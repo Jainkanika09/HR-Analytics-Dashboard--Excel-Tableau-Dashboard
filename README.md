@@ -86,4 +86,4 @@ Distribution Dashboard
 
 ---
 
-*If you find this project useful, consider giving it a ⭐ and connecting on [LinkedIn](YOUR_LINKEDIN_URL).*
+*If you find this project useful, consider giving it a ⭐ and connecting on [LinkedIn](https://www.linkedin.com/in/kanika-jain-a46816228/).*
